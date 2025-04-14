@@ -10,11 +10,6 @@ React + Tailwind CSS 로 스타일링 & GitHub Pages 배포 완료!
 - gh-pages (GitHub Pages 배포)
 - Open API 사용 : YTS API (https://yts.mx/api)
 
-## 화면 미리보기
-| Home 화면 | Detail 화면 |
-|-----------|-------------|
-| ![Home](./screenshot/home.png) | ![Detail](./screenshot/detail.png) |
-
 ## 💻 실행방법
 ```bash
 git clone https://github.com/dkslss/movieflix-react.git
